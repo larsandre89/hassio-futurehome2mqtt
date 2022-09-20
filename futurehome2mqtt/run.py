@@ -89,7 +89,7 @@ if __name__ == "__main__":
     print('User: ', username)
     print('Port: ', port)
     print('Client id: ', client_id)
-    print('Home Assistant long-lived access token: ', token[:5] + "...")
+    #print('Home Assistant long-lived access token: ', token[:5] + "...")
     print('Home Assistant host: ', ha_host)
     print('Debug : ', debug)
     print('Selected devices', selected_devices)
